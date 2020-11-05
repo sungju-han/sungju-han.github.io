@@ -15,7 +15,7 @@ My Ph.D. project investigates flood risk and perceptions of the exposed communit
 
 I am interested in survey analysis in R and also data visualization. Still practicing!
 
-Outside of work, I enjoy ballet, yoga, playing piano and, these days, cooking!
+Outside of work, I enjoy ballet, yoga, playing piano and, these days, cooking.
 
 ## Contact
 
