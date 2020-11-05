@@ -41,6 +41,7 @@ title: About me
 #### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013
 
 <br/>
+
 # Honor and Grant
 
 * PHUSICOS Summer School "According to Nature"
