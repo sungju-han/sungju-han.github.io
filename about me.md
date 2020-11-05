@@ -29,7 +29,7 @@ title: About me
 
 ### Hankuk University of Foreign Studies, Seoul, Korea
 #### BA in English Linguistics & BSc in International Economics and Law, 2007 to 2012
-* 1-year Exchange student at the Audencia Business School, Nantes, France (Specialization in International Management consulting)
+* Exchange student at the Audencia Business School, Nantes, France, 2009 to 2010
 <br/>
 
 # Other professional career
