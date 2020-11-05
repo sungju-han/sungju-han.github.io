@@ -13,6 +13,8 @@ I am a doctoral researcher at the Helmholtz Centre for Environmental Research - 
 
 My Ph.D. project investigates flood risk and perceptions of the exposed communities on Nature-based solutions (NBS) as alternatives of conventional measures such as damming or diking, and how different constructs such as valuation of multiple other benefits like aesthetical value or biodiversity, evaluation of risk reduction efficacy influence the perceptions. 
 
+I am interested in survey analysis in R and also data visualization. Still practicing!
+
 Outside of work, I enjoy ballet, yoga, playing piano and, these days, cooking!
 
 ## Contact
