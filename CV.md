@@ -22,6 +22,7 @@ title: CV
   * Official Development Assistance (ODA) projects on supporting policy development and capacity building to Paraguay, Indonesia and Vietnam with regards to the Environment Impact Assessment (EIA) and Environmental policy
 <br/>
 
+
 # Academic Career
 
 ### London School of Economics and Political Sciences
@@ -35,14 +36,15 @@ title: CV
 * Exchange student at the Audencia Business School, 2009 to 2010 (Nantes, France)
 <br/>
 
+
 # Other Professional Career
-### Permanent Delegation of Republic of Korea to the OECD
-#### Intership, Sep 2014 to Dec 2014 (Paris, France)
+#### Permanent Delegation of Republic of Korea to the OECD
+##### Intership, Sep 2014 to Dec 2014 (Paris, France)
 
-### Hyundai Asan Corporation, Seoul, Korea
-#### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
-
+#### Hyundai Asan Corporation, Seoul, Korea
+##### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
 <br/>
+
 
 # Honor and Grant
 #### DAAD Doctoral Scholarship (2018-Current)
