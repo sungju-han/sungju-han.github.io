@@ -28,6 +28,7 @@ title: About me
 #### MSc in Local Economic Development, 2013 to 2014 (London, UK)
 
 * Dissertation: _Agglomeration and the Knowledge Spillover Theory of Entrepreneurship: A multi-level analysis of new firm formation in South Korea_
+* Merit Awarded
 
 ### Hankuk University of Foreign Studies, Seoul, Korea
 #### BA in English Linguistics & BSc in International Economics and Law, 2007 to 2012
@@ -44,10 +45,9 @@ title: About me
 <br/>
 
 # Honor and Grant
-
+* DAAD Doctoral Scholarship (2018-current)
 * PHUSICOS Summer School "According to Nature"
 * ECPR Winter School in Methods and Techniques 2020
-* DAAD Doctoral Scholarship
 * The Asia Foundation Fellow for Climate Change and Development Cooperation
 * Mirae Asset Exchange Aboad Scholarship (2009-2010)
 * Hankuk University of Foreign Studies, full scholarship (2007-2012)
