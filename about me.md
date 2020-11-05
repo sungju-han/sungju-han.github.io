@@ -20,6 +20,7 @@ title: About me
 * Project: _**Development of Environmental and Social Safeguard Policies and Operational guidelines of KOICA**_
 * Project: _**Official Development Assistance (ODA) projects on supporting policy development and capacity building to Paraguay, Indonesia and Vietnam with regards to the Environment Impact Assessment (EIA) and Environmental policy**_
 <br/>
+
 # Academic Career
 
 ### London School of Economics and Political Sciences, London, UK
@@ -32,7 +33,7 @@ title: About me
 * Exchange student at the Audencia Business School, Nantes, France, 2009 to 2010
 <br/>
 
-# Other professional career
+# Other Professional Career
 ### Permanent Delegation of Republic of Korea to the OECD, Paris, France
 #### Intership, Sep 2014 to Dec 2014
 
