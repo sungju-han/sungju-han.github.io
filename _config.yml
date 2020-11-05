@@ -15,7 +15,7 @@ navbar-links:
   About me: "about me"
   Publication: "publication"
 # Project: "project"
-  Blog: "blog"
+# Blog: "blog"
 
 # GitHub: ""
   researchgate: "https://www.researchgate.net/profile/Sungju_Han"
