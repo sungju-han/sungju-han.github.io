@@ -9,7 +9,7 @@ cover-img: /assets/img/background.jpg
 
 ## About me
 
-**Sungju Han** is a **_Ph.D researcher_** at the [UFZ](https://www.ufz.de/index.php?en=45349) and  University of Potsdam. 
+**Sungju Han** is a **_doctoral researcher_** at the [UFZ](https://www.ufz.de/index.php?en=45349) and  University of Potsdam. 
 
 My research interests include flood risk management using nature-based solutions (NBS), particularly people's perceptions. I work on my PhD project that explores the interplay of constructs surrounding the people's perception of NBS such as valuation of co-benefits, risk reduction efficacy, environmental attitudes, stakeholder participation and institutional trust.
 
