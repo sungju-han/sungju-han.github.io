@@ -36,11 +36,11 @@ title: About me
 <br/>
 
 # Other Professional Career
-#### Permanent Delegation of Republic of Korea to the OECD
-* Intership, Sep 2014 to Dec 2014 (Paris, France)
+### Permanent Delegation of Republic of Korea to the OECD
+#### Intership, Sep 2014 to Dec 2014 (Paris, France)
 
 ### Hyundai Asan Corporation, Seoul, Korea
-* Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
+#### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
 
 <br/>
 
