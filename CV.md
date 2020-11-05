@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: CV
 ---
 
 <br/>
@@ -45,7 +45,7 @@ title: About me
 <br/>
 
 # Honor and Grant
-#### DAAD Doctoral Scholarship (2018-current)
+#### DAAD Doctoral Scholarship (2018-Current)
 #### PHUSICOS Summer School "According to Nature"
 #### ECPR Winter School in Methods and Techniques 2020
 #### The Asia Foundation Fellow for Climate Change and Development Cooperation
