@@ -1,17 +1,17 @@
 ---
 layout: page
 title:  
-subtitle: Sungju Han
+subtitle: 
 cover-img: /assets/img/background.jpg
 ---
 
 <br/>
 
-## About me
+## About Sungju
 
-**Sungju Han** is a doctoral researcher at the Helmholtz Centre for Environmental Research - UFZ and the University of Potsdam. 
+I am a doctoral researcher at the Helmholtz Centre for Environmental Research - UFZ and the University of Potsdam. My research interests include sustainable flood risk management using nature-based solutions (NBS) and the people's perceptions within the context.
 
-My research interests include flood risk management using nature-based solutions (NBS), particularly people's perceptions. I work on my PhD project that explores the interplay of constructs surrounding the people's perception of NBS such as valuation of co-benefits, risk reduction efficacy, environmental attitudes, stakeholder participation and institutional trust.
+My Ph.D. project investigates flood risk and perceptions of the exposed communities on Nature-based solutions (NBS) as alternatives of conventional measures such as damming or diking, and how different constructs such as valuation of multiple other benefits like aesthetical value or biodiversity, evaluation of risk reduction efficacy influence the perceptions. 
 
 Outside of work, I enjoy ballet, yoga, playing piano and, these days, cooking!
 
