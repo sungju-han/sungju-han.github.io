@@ -36,16 +36,6 @@ title: CV
 * Exchange student at the Audencia Business School, 2009 to 2010 (Nantes, France)
 <br/>
 
-
-# Other Professional Career
-#### Permanent Delegation of Republic of Korea to the OECD
-##### Intership, Sep 2014 to Dec 2014 (Paris, France)
-
-#### Hyundai Asan Corporation, Seoul, Korea
-##### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
-<br/>
-
-
 # Honor and Grant
 #### DAAD Doctoral Scholarship (2018-Current)
 #### PHUSICOS Summer School "According to Nature"
@@ -53,5 +43,13 @@ title: CV
 #### The Asia Foundation Fellow for Climate Change and Development Cooperation
 #### Mirae Asset Exchange Aboad Scholarship (2009-2010)
 #### Hankuk University of Foreign Studies, full scholarship (2007-2012)
+<br/>
 
+# Other Professional Career
+### Permanent Delegation of Republic of Korea to the OECD
+##### Intership, Sep 2014 to Dec 2014 (Paris, France)
+
+### Hyundai Asan Corporation, Seoul, Korea
+##### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
+<br/>
 
