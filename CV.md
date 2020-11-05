@@ -37,7 +37,7 @@ title: CV
 <br/>
 
 # Honor and Grant
-#### DAAD Doctoral Scholarship (2018-Current)
+#### DAAD Doctoral Scholarship (2018-Present)
 #### PHUSICOS Summer School "According to Nature"
 #### ECPR Winter School in Methods and Techniques 2020
 #### The Asia Foundation Fellow for Climate Change and Development Cooperation
@@ -47,9 +47,9 @@ title: CV
 
 # Other Professional Career
 ### Permanent Delegation of Republic of Korea to the OECD
-##### Intership, Sep 2014 to Dec 2014 (Paris, France)
+#### Intership, Sep 2014 to Dec 2014 (Paris, France)
 
 ### Hyundai Asan Corporation, Seoul, Korea
-##### Associate (Full-time), Inter-Korean Business Development Team, Jan 2012 to Sep 2013 (Seoul, Korea)
+#### Associate (Full-time), Jan 2012 to Sep 2013 (Seoul, Korea)
 <br/>
 
