@@ -36,6 +36,7 @@ title: CV
 * Exchange student at the Audencia Business School, 2009 to 2010 (Nantes, France)
 <br/>
 
+
 # Honor and Grant
 #### DAAD Doctoral Scholarship (2018-Present)
 #### PHUSICOS Summer School "According to Nature"
@@ -45,11 +46,12 @@ title: CV
 #### Hankuk University of Foreign Studies, full scholarship (2007-2012)
 <br/>
 
+
 # Other Professional Career
 ### Permanent Delegation of Republic of Korea to the OECD
 #### Intership, Sep 2014 to Dec 2014 (Paris, France)
 
 ### Hyundai Asan Corporation, Seoul, Korea
 #### Associate (Full-time), Jan 2012 to Sep 2013 (Seoul, Korea)
-<br/>
+
 
