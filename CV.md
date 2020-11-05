@@ -45,11 +45,11 @@ title: About me
 <br/>
 
 # Honor and Grant
-* DAAD Doctoral Scholarship (2018-current)
-* PHUSICOS Summer School "According to Nature"
-* ECPR Winter School in Methods and Techniques 2020
-* The Asia Foundation Fellow for Climate Change and Development Cooperation
-* Mirae Asset Exchange Aboad Scholarship (2009-2010)
-* Hankuk University of Foreign Studies, full scholarship (2007-2012)
+#### DAAD Doctoral Scholarship (2018-current)
+#### PHUSICOS Summer School "According to Nature"
+#### ECPR Winter School in Methods and Techniques 2020
+#### The Asia Foundation Fellow for Climate Change and Development Cooperation
+#### Mirae Asset Exchange Aboad Scholarship (2009-2010)
+#### Hankuk University of Foreign Studies, full scholarship (2007-2012)
 
 
