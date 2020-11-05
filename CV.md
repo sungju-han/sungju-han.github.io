@@ -11,15 +11,14 @@ title: Curriculum Vitae
 ### Helmholtz Centre for Environmental Research GmbH - UFZ
 #### PhD Researcher, Oct 2018 to Present (Coordinated with University of Potsdam)
 
-* PhD Project (ongoing): _**People's Perceptions of Nature-based Solutions for flood risks**_
+* PhD Project: _**People's Perceptions of Nature-based Solutions for flood risks**_
   * Description: This Ph.D. project investigates flood risk and perceptions of the exposed communities on Nature-based solutions (NBS) as alternatives of conventional measures, and how different constructs such as valuation of co-benefits, evaluation of risk reduction efficacy, etc. influence the acceptance of NBS.
 
 ### Korea Environment Institute
 #### Researcher,	Jan 2015 to Aug 2017 (Sejong, Korea)
-* Participated projects
-  * Establishment of Regeneration Scheme for Post Nuclear Accident (1): based on analysis of the Fukushima Daiichi nuclear accident
-  * Development of Environmental and Social Safeguard Policies and Operational guidelines of KOICA
-  * Official Development Assistance (ODA) projects on supporting policy development and capacity building to Paraguay, Indonesia and Vietnam with regards to the Environment Impact Assessment (EIA) and Environmental policy
+* Establishment of Regeneration Scheme for Post Nuclear Accident (1): based on analysis of the Fukushima Daiichi nuclear accident
+* Development of Environmental and Social Safeguard Policies and Operational guidelines of KOICA
+* Official Development Assistance (ODA) projects on supporting policy development and capacity building to Paraguay, Indonesia and Vietnam with regards to the Environment Impact Assessment (EIA) and Environmental policy
 <br/>
 
 
@@ -27,7 +26,6 @@ title: Curriculum Vitae
 
 ### London School of Economics and Political Sciences
 #### MSc in Local Economic Development, 2013 to 2014 (London, UK)
-
 * Dissertation: Agglomeration and the Knowledge Spillover Theory of Entrepreneurship: A multi-level analysis of new firm formation in South Korea
 * Merit Awarded
 
