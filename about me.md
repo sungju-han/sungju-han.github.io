@@ -17,8 +17,8 @@ title: About me
 ### Korea Environment Institute
 #### Researcher,	Jan 2015 to Aug 2017 (Sejong, Korea)
 * Participated projects
-  * Establishment of Regeneration Scheme for Post Nuclear Accident (1): based on analysis of the Fukushima Daiichi nuclear accident_
-  * Development of Environmental and Social Safeguard Policies and Operational guidelines of KOICA_
+  * Establishment of Regeneration Scheme for Post Nuclear Accident (1): based on analysis of the Fukushima Daiichi nuclear accident
+  * Development of Environmental and Social Safeguard Policies and Operational guidelines of KOICA
   * Official Development Assistance (ODA) projects on supporting policy development and capacity building to Paraguay, Indonesia and Vietnam with regards to the Environment Impact Assessment (EIA) and Environmental policy
 <br/>
 
@@ -27,7 +27,7 @@ title: About me
 ### London School of Economics and Political Sciences
 #### MSc in Local Economic Development, 2013 to 2014 (London, UK)
 
-* Dissertation: _Agglomeration and the Knowledge Spillover Theory of Entrepreneurship: A multi-level analysis of new firm formation in South Korea_
+* Dissertation: Agglomeration and the Knowledge Spillover Theory of Entrepreneurship: A multi-level analysis of new firm formation in South Korea
 * Merit Awarded
 
 ### Hankuk University of Foreign Studies, Seoul, Korea
